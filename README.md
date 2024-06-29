@@ -6,4 +6,7 @@ Gentlemanintech:Group_7-SEN4324/umar_maidoki
    3- made changes to the footer class name
    4- made changes to the footer style
 
+AliyuKhalifa
+1- i  made some changes in the entire login
+
    

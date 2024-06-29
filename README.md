@@ -5,5 +5,6 @@
    3- made changes to the footer class name
    4- made changes to the footer style
    5- made some changes in the entire login
+   6- Added the email helper to the page
 
    

@@ -3,4 +3,5 @@
    2- added a footer to the page 
    3- made changes to the footer class name
    4- made changes to the footer style
+   5- made changes to the header
 ## put anything you want here

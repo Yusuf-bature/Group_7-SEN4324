@@ -1,10 +1,7 @@
-# Group_7-SEN4324
-
-   1-Upadte inde.html => Made changes to the button width and padding 
-   2- added a footer to the page 
-   3- made changes to the footer class name
-   4- made changes to the footer style
-   5- made some changes in the entire login
-   6- Added the email helper to the page
-
-   
+# Group_7-SEN4324 Aminu Ahmad Bello
+## Created by Group 7 members
+1. First name
+2. Second name
+   1. Subname 2.1
+   2. Subname 2.2
+3. Third name
